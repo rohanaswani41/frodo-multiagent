@@ -48,7 +48,7 @@ if __name__ == "__main__":
     #     responses = meta_agent.process_query(query)
     #     print(f"Response: {responses}")
 
-    print("Frodo: How can I help you today ?")
+    print("Frodo: Welcome to Sleep Better! I'm Frodo, your personal sleep consultant. How may I assist you today?")
     while True:
-        inp_question = input("User:")
+        inp_question = input("Customer: ")
         print(f"""Frodo: {meta_agent.process_query(inp_question)}""")
