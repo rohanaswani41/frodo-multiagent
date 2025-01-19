@@ -1,0 +1,79 @@
+{
+    "reviews":[
+        {
+            "name": "Ultra Comfort Mattress",
+            "reviews": [
+                {"rating": 5, "comment": "Best sleep I've had in years! Perfect balance of soft and firm, and I don't feel my partner moving at all.", "reviewer": "John D."},
+                {"rating": 5, "comment": "The cooling technology actually works - no more night sweats.", "reviewer": "Sarah M."},
+                {"rating": 4, "comment": "Great mattress overall, though took about 2 weeks to fully break in.", "reviewer": "Mike R."},
+                {"rating": 5, "comment": "Finally found relief from my back pain after trying three other mattresses.", "reviewer": "Emma L."},
+                {"rating": 2, "comment": "Too firm for my liking, even after the break-in period.", "reviewer": "Carlos H."},
+                {"rating": 4, "comment": "Really happy with the quality and comfort. Only giving 4 stars because the price is a bit steep.", "reviewer": "Lisa P."},
+                {"rating": 5, "comment": "Exceeded expectations in every way. My wife and I are both side and back sleepers.", "reviewer": "David K."},
+                {"rating": 3, "comment": "Decent mattress but the cooling effect isn't as dramatic as advertised.", "reviewer": "Rachel T."},
+                {"rating": 5, "comment": "The motion isolation is incredible - I can't feel my husband getting up at all.", "reviewer": "Patricia N."},
+                {"rating": 4, "comment": "Great quality and comfort, shipping was quick. Only complaint is that it's quite heavy to move.", "reviewer": "James B."}
+            ]
+        },
+        {
+            "name": "Dream Sleep Mattress",
+            "reviews": [
+                {"rating": 5, "comment": "Perfect for our guest room! Everyone who stays over asks about where we got it.", "reviewer": "Maria C."},
+                {"rating": 3, "comment": "Good value for money, but does retain some heat.", "reviewer": "Tom W."},
+                {"rating": 4, "comment": "Great pressure relief and very comfortable. Just wish it had better edge support.", "reviewer": "Anna K."},
+                {"rating": 2, "comment": "Too soft for my taste, and started to sag after 6 months.", "reviewer": "Bob M."},
+                {"rating": 5, "comment": "Amazing price point for the quality. Perfect for side sleeping and the motion isolation is excellent.", "reviewer": "Jenny R."},
+                {"rating": 4, "comment": "Comfortable and good quality for the price. No off-gassing smell unlike other foam mattresses I've tried.", "reviewer": "Kevin L."},
+                {"rating": 5, "comment": "Best mattress I've owned in this price range. The memory foam really cradles my pressure points.", "reviewer": "Sandra P."},
+                {"rating": 1, "comment": "Developed a permanent body impression within 3 months.", "reviewer": "Michael G."},
+                {"rating": 4, "comment": "Nice and comfortable, especially for the price point. Delivery and setup were hassle-free.", "reviewer": "Laura B."},
+                {"rating": 3, "comment": "Decent mattress but runs a bit warm. Good for winter, not so much for summer months.", "reviewer": "Chris H."}
+            ]
+        },
+        {
+            "name": "Luxury Cloud Mattress",
+            "reviews": [
+                {"rating": 5, "comment": "The combination of latex and memory foam is perfect. Haven't slept this well in decades!", "reviewer": "Robert J."},
+                {"rating": 5, "comment": "Expensive but worth every penny. The zoned support really helps with my lower back pain.", "reviewer": "Michelle P."},
+                {"rating": 3, "comment": "Very comfortable but not sure it's worth the premium price. The organic materials are nice though.", "reviewer": "William S."},
+                {"rating": 5, "comment": "Finally a luxury mattress that lives up to the hype. The natural materials help me sleep better knowing I'm not breathing in chemicals.", "reviewer": "Helen K."},
+                {"rating": 2, "comment": "Too soft despite being advertised as medium-firm. The return process was easy though.", "reviewer": "George N."},
+                {"rating": 5, "comment": "Best investment in my sleep ever. The latex layer adds the perfect amount of bounce while the memory foam contours perfectly.", "reviewer": "Jessica M."},
+                {"rating": 4, "comment": "Amazing quality and comfort, but be prepared for the weight - this is a heavy mattress.", "reviewer": "Daniel R."},
+                {"rating": 5, "comment": "Love the eco-friendly materials and the comfort is unmatched. Worth the splurge!", "reviewer": "Emily W."},
+                {"rating": 3, "comment": "Great mattress but had to return due to latex allergy. Customer service was excellent throughout.", "reviewer": "Tyler B."},
+                {"rating": 4, "comment": "The split king option is perfect for my adjustable base. My only complaint is the price.", "reviewer": "Linda F."}
+            ]
+        },
+        {
+            "name": "Essential Plus Mattress",
+            "reviews": [
+                {"rating": 4, "comment": "Perfect for my college apartment. Great value for the price point!", "reviewer": "Alex T."},
+                {"rating": 3, "comment": "Decent quality for a guest room mattress. Nothing fancy but gets the job done.", "reviewer": "Mary S."},
+                {"rating": 5, "comment": "Surprisingly comfortable for the price. My kids love it!", "reviewer": "Jordan P."},
+                {"rating": 2, "comment": "A bit too firm and basic. Wish I had spent a bit more for better quality.", "reviewer": "Nina R."},
+                {"rating": 4, "comment": "Great starter mattress. Easy to move and setup, perfect for temporary living.", "reviewer": "Derek L."},
+                {"rating": 3, "comment": "Does the job for occasional guest use. Wouldn't recommend for everyday use though.", "reviewer": "Sophie M."},
+                {"rating": 4, "comment": "Better than expected for the price point. Perfect for my teenager's room.", "reviewer": "Rick H."},
+                {"rating": 1, "comment": "Started sagging after 6 months of use. You get what you pay for.", "reviewer": "Amanda C."},
+                {"rating": 4, "comment": "Good value mattress for a rental property. Easy to maintain and guests find it comfortable.", "reviewer": "Brian K."},
+                {"rating": 3, "comment": "Decent temporary solution while saving for a better mattress. Shipping was quick and easy.", "reviewer": "Tina W."}
+            ]
+        },
+        {
+            "name": "Performance Sport Mattress",
+            "reviews": [
+                {"rating": 5, "comment": "Amazing recovery after intense workouts. The copper-infused foam really seems to help with muscle soreness.", "reviewer": "Ryan M."},
+                {"rating": 4, "comment": "Great support and cooling features. Perfect for active people who sleep hot.", "reviewer": "Tracy L."},
+                {"rating": 5, "comment": "Best mattress I've found for athletic recovery. Worth the investment for serious athletes.", "reviewer": "Mark D."},
+                {"rating": 2, "comment": "Expected more at this price point. The cooling features are good but found it too firm.", "reviewer": "Karen S."},
+                {"rating": 5, "comment": "Finally found the perfect mattress for my training recovery. The pressure point relief is exceptional.", "reviewer": "Steve B."},
+                {"rating": 4, "comment": "Really helps with post-workout recovery, though the price is a bit steep. The edge support is excellent.", "reviewer": "Jennifer A."},
+                {"rating": 3, "comment": "Good mattress but the copper-infusion benefits are hard to verify. Still sleeping better than before.", "reviewer": "Paul R."},
+                {"rating": 5, "comment": "As a marathon runner, this mattress has been a game-changer for my recovery. Love the cooling properties!", "reviewer": "Diana K."},
+                {"rating": 4, "comment": "Very supportive and definitely helps with recovery. Removed one star because it's quite heavy to move.", "reviewer": "Mike P."},
+                {"rating": 5, "comment": "Perfect balance of support and comfort for athletic recovery. The antimicrobial properties are a great bonus.", "reviewer": "Sarah J."}
+            ]
+        }
+    ]
+}

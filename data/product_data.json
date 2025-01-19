@@ -1,0 +1,141 @@
+{
+    "product_catalog": [
+      {
+        "name": "Ultra Comfort Mattress",
+        "price": "$1,299",
+        "size": "Queen",
+        "type": "Hybrid (Memory Foam + Pocket Coils)",
+        "height": "12 inches",
+        "construction_layers": [
+          "2\" Cooling Gel Memory Foam Top Layer",
+          "2\" Responsive Comfort Foam",
+          "2\" Transition Layer",
+          "6\" Pocket Coil System (1,024 coils in Queen size)"
+        ],
+        "key_features": [
+          "Advanced temperature regulation with cooling gel technology",
+          "Edge-to-edge support system",
+          "Motion isolation technology",
+          "Breathable quilted cover with silver-infused fibers",
+          "CertiPUR-US® certified foams",
+          "Compatible with adjustable bed bases"
+        ],
+        "best_for": ["Hot sleepers", "Couples", "Back and stomach sleepers", "Those needing extra edge support"],
+        "available_sizes": ["Twin", "Twin XL", "Full", "Queen", "King", "California King"],
+        "warranty": "15 years",
+        "trial_period": "100 nights"
+      },
+      {
+        "name": "Dream Sleep Mattress",
+        "price": "$899",
+        "size": "Queen",
+        "type": "All-Foam",
+        "height": "10 inches",
+        "construction_layers": [
+          "2\" Memory Foam Comfort Layer",
+          "2\" Adaptive Support Foam",
+          "6\" High-Density Base Foam"
+        ],
+        "key_features": [
+          "Pressure-relieving memory foam",
+          "Open-cell foam technology for better airflow",
+          "Removable and washable cover",
+          "Zero motion transfer",
+          "CertiPUR-US® certified foams",
+          "Medium-firm feel (6/10 on firmness scale)"
+        ],
+        "best_for": ["Side sleepers", "Light to average weight sleepers", "Those seeking motion isolation", "Budget-conscious shoppers"],
+        "available_sizes": ["Twin", "Full", "Queen", "King"],
+        "warranty": "10 years",
+        "trial_period": "100 nights"
+      },
+      {
+        "name": "Luxury Cloud Mattress",
+        "price": "$1,899",
+        "size": "Queen",
+        "type": "Hybrid (Latex + Memory Foam + Coils)",
+        "height": "14 inches",
+        "construction_layers": [
+          "2\" Natural Latex Top Layer",
+          "2\" Gel-Infused Memory Foam",
+          "2\" Dynamic Response Foam",
+          "8\" Zoned Support Coil System (1,744 coils in Queen size)"
+        ],
+        "key_features": [
+          "Organic cotton and wool cover",
+          "Natural latex for durability and bounce",
+          "Zoned lumbar support",
+          "Enhanced edge support system",
+          "Temperature neutral design",
+          "Antimicrobial properties",
+          "GOTS and GOLS certified materials"
+        ],
+        "best_for": ["Luxury seekers", "Those with back pain", "Combination sleepers", "Eco-conscious consumers"],
+        "available_sizes": ["Twin XL", "Full", "Queen", "King", "California King", "Split King"],
+        "warranty": "25 years",
+        "trial_period": "180 nights"
+      },
+      {
+        "name": "Essential Plus Mattress",
+        "price": "$699",
+        "size": "Queen",
+        "type": "All-Foam",
+        "height": "8 inches",
+        "construction_layers": [
+          "1.5\" Comfort Foam",
+          "2\" Pressure Relief Foam",
+          "4.5\" Support Core Foam"
+        ],
+        "key_features": [
+          "Budget-friendly option",
+          "Medium-firm support",
+          "Basic cooling properties",
+          "Lightweight and easy to move",
+          "CertiPUR-US® certified foams",
+          "Ideal for guest rooms"
+        ],
+        "best_for": ["Guest rooms", "Children's rooms", "Temporary living situations", "Budget shoppers"],
+        "available_sizes": ["Twin", "Full", "Queen"],
+        "warranty": "5 years",
+        "trial_period": "60 nights"
+      },
+      {
+        "name": "Performance Sport Mattress",
+        "price": "$1,499",
+        "size": "Queen",
+        "type": "Hybrid (Performance Foam + Coils)",
+        "height": "13 inches",
+        "construction_layers": [
+          "2\" Recovery Foam with Copper Infusion",
+          "2\" High-Density Support Foam",
+          "2\" Dynamic Response Layer",
+          "7\" Reinforced Coil System (1,356 coils in Queen size)"
+        ],
+        "key_features": [
+          "Copper-infused foam for recovery",
+          "Enhanced pressure point relief",
+          "Specialized for athletic recovery",
+          "Advanced cooling technology",
+          "Antimicrobial properties",
+          "Extra durability for active individuals",
+          "Reinforced edge support"
+        ],
+        "best_for": ["Athletes and active individuals", "Those with active recovery needs", "Heavy sleepers", "Hot sleepers"],
+        "available_sizes": ["Twin XL", "Full", "Queen", "King", "California King"],
+        "warranty": "20 years",
+        "trial_period": "120 nights",
+        "reviews": [
+          {"rating": 5, "comment": "Amazing recovery after intense workouts. The copper-infused foam really seems to help with muscle soreness.", "reviewer": "Ryan M."},
+          {"rating": 4, "comment": "Great support and cooling features. Perfect for active people who sleep hot.", "reviewer": "Tracy L."},
+          {"rating": 5, "comment": "Best mattress I've found for athletic recovery. Worth the investment for serious athletes.", "reviewer": "Mark D."},
+          {"rating": 2, "comment": "Expected more at this price point. The cooling features are good but found it too firm.", "reviewer": "Karen S."},
+          {"rating": 5, "comment": "Finally found the perfect mattress for my training recovery. The pressure point relief is exceptional.", "reviewer": "Steve B."},
+          {"rating": 4, "comment": "Really helps with post-workout recovery, though the price is a bit steep. The edge support is excellent.", "reviewer": "Jennifer A."},
+          {"rating": 3, "comment": "Good mattress but the copper-infusion benefits are hard to verify. Still sleeping better than before.", "reviewer": "Paul R."},
+          {"rating": 5, "comment": "As a marathon runner, this mattress has been a game-changer for my recovery. Love the cooling properties!", "reviewer": "Diana K."},
+          {"rating": 4, "comment": "Very supportive and definitely helps with recovery. Removed one star because it's quite heavy to move.", "reviewer": "Mike P."},
+          {"rating": 5, "comment": "Perfect balance of support and comfort for athletic recovery. The antimicrobial properties are a great bonus.", "reviewer": "Sarah J."}
+        ]
+      }
+    ]
+  }

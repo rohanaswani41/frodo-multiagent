@@ -1,0 +1,7 @@
+typing-extensions
+openai
+langgraph
+sentence-transformers
+numpy
+pandas
+sqlalchemy
