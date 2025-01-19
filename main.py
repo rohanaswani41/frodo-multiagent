@@ -6,11 +6,12 @@ import json
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-OPEN_AI_API_KEY = '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'
-
+OPEN_AI_API_KEY = os.getenv('OPEN_AI_API_KEY')
 
 # Example usage
 if __name__ == "__main__":
+
+    print("Setup has started, please give it a few minutes..")
 
     product_processor = ProductProcessor()
     input_products = './data/product_data.json'
